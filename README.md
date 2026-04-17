@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Riya
 
-<!--
-**riyachouhan07/riyachouhan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Learning Python & Java  
+🚀 Building real-world projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- java
+- c++
+- Basics of Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Expense Tracker 💰
+
+## 🎯 Goal
+To become a skilled Python developer and earn through coding
